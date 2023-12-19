@@ -1,0 +1,72 @@
+/* Add your global styles here */
+
+/* Style for the main container */
+.container {
+    margin-top: 20px;
+  }
+  
+  /* Style for the breadcrumb */
+  .breadcrumb {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Style for the panel-primary */
+  .panel-primary {
+    border-color: #428bca;
+  }
+  
+  .panel-primary .panel-heading {
+    background-color: #428bca;
+    color: #fff;
+  }
+  
+  /* Style for the panel-green */
+  .panel-green {
+    border-color: #5cb85c;
+  }
+  
+  .panel-green .panel-heading {
+    background-color: #5cb85c;
+    color: #fff;
+  }
+  
+  /* Style for the panel-yellow */
+  .panel-yellow {
+    border-color: #f0ad4e;
+  }
+  
+  .panel-yellow .panel-heading {
+    background-color: #f0ad4e;
+    color: #fff;
+  }
+  
+  /* Style for the panel-red */
+  .panel-red {
+    border-color: #d9534f;
+  }
+  
+  .panel-red .panel-heading {
+    background-color: #d9534f;
+    color: #fff;
+  }
+  
+  /* Style for the table */
+  .table {
+    margin-top: 20px;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+  }
+  
+  /* Style for the View All Orders link */
+  .text-right a {
+    color: #428bca;
+    text-decoration: none;
+  }
+  
+  .text-right a:hover {
+    text-decoration: underline;
+  }
